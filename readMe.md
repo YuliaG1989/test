@@ -20,8 +20,7 @@ You will be submitting your homework using GitHub Classrooms.
 - `git add some_dir/` will log the changes to all files in the some_dir directory
 - `git add -A` will add all files in the local repo that have been modified
 - `git commit -m "any message that is relevant to your changes"`
-- `git push origin main`
-- origin is the nickname of the remote repo.  Main is the name of the branch, this is usually main when you start out.
+- `git push origin main` (origin is the nickname of the remote repo.  Main is the name of the branch, this is usually main when you start out)
 
 
 
