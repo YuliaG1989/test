@@ -12,7 +12,7 @@ You will be submitting your homework using GitHub Classrooms.
 - Click on the `code`, choose `SSH` key and copy it.
 - Now open your terminal, `cd` into your homework directory (create one if you don't have it yet) and run `git clone <SSH key>`. That action clones down your remote repository and if you run `ls` from your terminal you should see it right there!
 - `cd` into repo that you just cloned down and you are ready to work on your homework!
-- Submit it by adding link to your repository in TI! 
+- Submit link to your repository in TI! 
 
 #### Commands to remember:
 - `git add specific_file.txt` will log all changes to the file specific_file.text
