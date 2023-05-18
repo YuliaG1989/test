@@ -9,7 +9,7 @@ You will be submitting your homework using GitHub Classrooms.
   ![Imgur](https://i.imgur.com/HMk9bNb.png)
 - Now, that you're redirected to your homework repo, you can check the success by looking at the top left. If you see your GitHub handle to the right of the assignment name - success!
   ![Imgur](https://i.imgur.com/JQlbRde.png)
-- Click on the `code`, choose `SSH` key and copy it.
+- Click on `code`, choose `SSH` key and copy it.
   ![Imgur](https://i.imgur.com/vJDM5t6.png)
 - Now open your terminal, `cd` into your homework directory (create one if you don't have it yet) and run `git clone <SSH key>`. That action clones down your remote repository and if you run `ls` from your terminal you should see it right there!
 - `cd` into repo that you just cloned down and you are ready to work on your homework!
