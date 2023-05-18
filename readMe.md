@@ -5,7 +5,7 @@ You will be submitting your homework using GitHub Classrooms.
 - Click on the link to your homework assignment that is posted in the classroom channel.
 - That will open up a tab in the browser and will ask you to accept the assignment. Accept it.
   ![Imgur](https://i.imgur.com/6J6ihsn.png)
-- That will re-direct you to a different page, here you might need to refresh your browser. Once you refresh it, you should see **You're ready to go!** message. Below this message you will see link to your personal homework repository. Click on it.
+- That will redirect you to a different page, here you might need to refresh your browser. Once you refresh it, you should see **You're ready to go!** message. Below this message you will see link to your personal homework repository. Click on it.
   ![Imgur](https://i.imgur.com/HMk9bNb.png)
 - Now, that you're redirected to your homework repo, you can check the success by looking at the top left. If you see your GitHub handle to the right of the assignment name - success!
   ![Imgur](https://i.imgur.com/JQlbRde.png)
